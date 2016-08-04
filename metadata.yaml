@@ -1,0 +1,30 @@
+_repo: The-Life-and-Perambulations-of-a-Mouse_1904
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kilner, Dorothy
+    aliases:
+    - Pelham, M.
+    - Pelham, Mary
+    birthdate: 1755
+    deathdate: 1836
+    gutenberg_agent_id: '746'
+    url: http://www.gutenberg.org/2009/agents/746
+    wikipedia: http://en.wikipedia.org/wiki/Dorothy_Kilner
+description: ''
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'Mice -- Juvenile fiction'
+- GITenberg
+title: The Life and Perambulations of a Mouse
+url: http://www.gutenberg.org/ebooks/1904
